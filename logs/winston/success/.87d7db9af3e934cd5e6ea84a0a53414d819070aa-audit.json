@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/akash/Workspace/p-hero/university-auth-service/logs/winston/success/.87d7db9af3e934cd5e6ea84a0a53414d819070aa-audit.json",
+    "files": [
+        {
+            "date": 1714587987951,
+            "name": "/home/akash/Workspace/p-hero/university-auth-service/logs/winston/success/success-2024-05-02-00.log",
+            "hash": "3affee9fe6b9dcc4a5511f410e2f097dcb5d6556a6b61694394e05e32577b121"
+        }
+    ],
+    "hashType": "sha256"
+}
